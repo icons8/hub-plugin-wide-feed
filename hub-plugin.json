@@ -1,0 +1,9 @@
+{
+  "name": "wide-feed",
+  "description": "The feed and the input field in a wide column",
+  "version": "1.0.0",
+  "hub": "^1.0",
+  "web": "main.js",
+  "icon": "icon.svg",
+  "why": "The hub keeps the feed in a narrower column (800px in Classic, 1104px in Clean) and a text line of 68 characters: on a big window there are empty margins at the sides. A column up to 1500px, and the full window width on a narrow one."
+}
